@@ -1,4 +1,6 @@
 # TPG4155_Project2018
+The project title is "Pragmatic Modeling of a Full Waveform Inversion using Finite Difference Method to Solve Wave Equation". You can see the full project report in the file named TPG4155_Fall_Project_2018__10003&10010.pdf
+
 List of Code Scripts
 1) calculateGradient : Function to calculate gradient between test model and true model.
 2) calculateStepLength : Function to calculate step length used to minimize error, using "blind" steepest descent as the numerical optimization method.
